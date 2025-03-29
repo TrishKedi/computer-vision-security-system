@@ -2,7 +2,7 @@
 
 A real-time, edge-ready security system that uses AI and Computer Vision to detect people through a camera feed, log detections, and expose a full-stack dashboard to monitor and manage events. Built using the latest technologies: YOLOv8, FastAPI, Next.js, Docker, and OpenCV.
 
-![demo]()
+![demo]
 
 ---
 
