@@ -3,7 +3,7 @@ name: Deploy Backend to AWS EC
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
