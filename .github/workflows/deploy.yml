@@ -33,5 +33,5 @@ jobs:
 
             cd computer-vision-security-system
             git reset --hard
-            git pull origin main
+            git pull origin master
 
