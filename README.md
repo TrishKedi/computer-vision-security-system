@@ -32,11 +32,7 @@ A real-time, edge-ready security system that uses AI and Computer Vision to dete
 
 ---
 
-## 📸 Demo
 
-> _Add a GIF or video demo here showing: detection, saved logs, and dashboard interface._
-
----
 
 ## 🧑‍💻 Local Development Setup
 
